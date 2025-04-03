@@ -4,7 +4,11 @@
 - 💻 Aspiring **Software Engineer**  
 - 🎮 Passionate about **Game Development & digital arts**  
 - 🌍 Goal: Work abroad and create innovative solutions  
-- 🚀 Always learning and building new projects  
+- 🚀 Always learning and building new projects
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/pedro-drumond-1a0598324/))
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaipacc999@gmail.com)  
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
